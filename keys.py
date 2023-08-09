@@ -1,0 +1,4 @@
+api_key='xxxxxxxxxxxxxxxxxxxxxxxxxxx'
+api_secret='xxxxxxxxxxxxxxxxxxxxxxxxxxx'
+access_token='xxxxxxxxxxxxxxxxxxxxxxxxxxx'
+access_token_secret='xxxxxxxxxxxxxxxxxxxxxxxxxxx'
